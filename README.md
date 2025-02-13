@@ -1,4 +1,4 @@
-# Object Generator
+# Object-Image Generator
 A Deep Convolutional GAN (DCGAN) implementation for generating random images including animals using the CIFAR-10 dataset.
 
 ## Features 🚀
@@ -15,7 +15,7 @@ A Deep Convolutional GAN (DCGAN) implementation for generating random images inc
 1. Clone the repository:
 
    ```bash
-   git clone [https://github.com/AyoBankole/gans.git](https://github.com/AyoBankole/Image_Generation_with_GANS.git)
+   git clone (https://github.com/AyoBankole/Image_Generation_with_GANS.git)
 
    ```
 
